@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import 'antd/dist/antd.js';
-import 'antd/dist/antd.css';
-import { Layout } from 'antd';
+  import 'antd/dist/antd.js';
+  import 'antd/dist/antd.css';
+  import { Layout } from 'antd';
 import './style.css';
 
 const { Header, Footer, Content } = Layout;
@@ -16,7 +16,7 @@ class App extends Component {
         </Header>
         <Content>
         <p>
-          To get started, edit <code>src/App.js</code> and save to reload.
+          To get started, edit <code>src/App.js</code> and save to reload.    
         </p>
         </Content>
       </div>
